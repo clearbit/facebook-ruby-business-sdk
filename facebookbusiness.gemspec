@@ -32,7 +32,7 @@ Gem::Specification.new do |s|
     'https://github.com/facebook/facebook-ruby-business-sdk'
   s.license = 'Nonstandard'
 
-  s.required_ruby_version = '~> 2.0'
+  s.required_ruby_version = '> 2.4'
 
   s.add_dependency 'faraday', '~> 0.15'
   s.add_dependency 'json', '~> 2.2'
