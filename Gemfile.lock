@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    facebookbusiness (20.0.4)
+    facebookbusiness (21.0.2)
       countries (~> 3.0)
       faraday (~> 1.10.1)
       json (~> 2.2)
